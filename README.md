@@ -29,9 +29,7 @@
 27.model层具体是放哪些数据；
 
 
-作者：长安街
-链接：https://www.nowcoder.com/discuss/942727?source_id=discuss_experience_nctrack&channel=-1
-来源：牛客网
+
 
 一面：
 1.handler机制
